@@ -1,5 +1,5 @@
-﻿using AirportsDistanceAPI.Infrastructure.Resource.Services;
-using Microsoft.EntityFrameworkCore;
+﻿using AirportsDistanceAPI.Application.Abstraction;
+using AirportsDistanceAPI.Infrastructure.Resource.Services;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace AirportsDistanceAPI.Persistence

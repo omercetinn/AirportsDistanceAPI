@@ -1,8 +1,6 @@
-﻿using AirportsDistanceAPI.Infrastructure.Resource.Models;
-using AirportsDistanceAPI.Infrastructure.Resource.Services;
-using Microsoft.AspNetCore.Http;
+﻿using AirportsDistanceAPI.Application.Abstraction;
+using AirportsDistanceAPI.Domain.Resource.Models;
 using Microsoft.AspNetCore.Mvc;
-using Nest;
 
 namespace AirportsDistanceAPI.API.Controllers
 {
