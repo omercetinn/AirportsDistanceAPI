@@ -8,3 +8,5 @@ A distance calculation was made based on the information received by sending a r
 
 The project was created according to the layered architecture. 
 In the later stages of the project, it was designed with Onion Architecture by considering the relationship with a possible database.
+
+Not : Aspects are presented as alternatives.
